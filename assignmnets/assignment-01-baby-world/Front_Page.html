@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Baby World</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <a class="logo" href="#">Baby World</a>
+            <nav aria-label="Main">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Shop</a></li>
+                    <li><a href="#">Cart</a></li>
+                    <li><a href="#">Login</a></li>
+                </ul>
+            </nav>
+            <form>
+                <input type="search" placeholder="Search baby clothes" aria-label="Search baby clothes">
+                <button type="submit">Search</button>
+            </form>
+        </header>
+        <h1>Baby Clothes</h1>
+        <div class="layout">
+            <aside aria-label="Sidebar">
+                <fieldset>
+                    <legend>Age</legend>
+                        <label> <input type="checkbox" name="age">Newborn</label>
+                        <label> <input type="checkbox" name="age">3-6 months</label>
+                        <label> <input type="checkbox" name="age">6-12 months</label>
+                        <label> <input type="checkbox" name="age">1-2 years</label>
+                </fieldset>
+                <fieldset>
+                    <legend>Type</legend>
+                        <label> <input type="checkbox" name="type">Bodysuits</label>
+                        <label> <input type="checkbox" name="type">Rompers</label>
+                        <label> <input type="checkbox" name="type">Sleepwear</label>
+                        <label> <input type="checkbox" name="type">Track suits</label>
+                        <label> <input type="checkbox" name="type">Accessories</label>
+                </fieldset>
+                <fieldset>
+                    <legend>Price</legend>
+                        <label> <input type="checkbox" name="price">Under Rs 1,000</label>
+                        <label> <input type="checkbox" name="price">Rs 1,000-Rs 2,500</label>
+                        <label> <input type="checkbox" name="price">Over Rs 2,500</label>
+                </fieldset>
+            </aside>
+            <main>
+                <div class="toolbar">
+                    <p>Showing 6 products</p>
+                    <label for="sort">Sort by:</label>
+                    <select id="sort" name="sort">
+                        <option value="newest">Newest</option>
+                        <option value="price-low-high">Price: Low to High</option>
+                        <option value="price-high-low">Price: High to Low</option>
+                    </select>
+                </div>
+                <section class="products">
+                    <article class="card">
+                        <img src="images/black-track-suit.webp" alt="Black track suit">
+                        <span class="badge">New</span>
+                        <h2>Black Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                    <article class="card">
+                        <img src="images/beige-track-suit.webp" alt="Beige track suit">
+                        <span class="badge">New</span>
+                        <h2>Beige Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                    <article class="card">
+                        <img src="images/blue-track-suit.webp" alt="Blue track suit">
+                        <h2>Blue Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                    <article class="card">
+                        <img src="images/dark-gray-track-suit.webp" alt="Dark gray track suit">
+                        <span class="badge">New</span>
+                        <h2>Dark Gray Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                    <article class="card">
+                        <img src="images/gray-track-suit.webp" alt="Gray track suit">
+                        <h2>Gray Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                    <article class="card">
+                        <img src="images/navy-blue-track-suit.webp" alt="Navy blue track suit">
+                        <h2>Navy Blue Track Suit</h2>
+                        <p>3-6 months</p>
+                        <p class="price">Rs 1,200</p>
+                        <button type="button">Add to Cart</button>
+                    </article>
+                </section>
+            </main>
+        </div>
+        <footer>
+            <p>&copy; 2026 Baby World. Created by Abdullah Javed</p>
+            <nav aria-label="Footer">
+                <ul>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Returns policy</a></li>
+                </ul>
+            </nav>
+        </footer>
+    </body>
+</html>
