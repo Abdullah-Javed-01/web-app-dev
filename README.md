@@ -35,7 +35,7 @@ A `final-project/` folder will be added next to `assignments/` when that work be
 
 ## What I'm Learning
 
-- Skills so far, semantic HTML, forms, CSS Flexbox, the box model, hover effects
+- So far I’ve learned semantic HTML, forms, CSS Flexbox, the box model and hover effects, and next I want to learn responsive design with media queries.
 
 ## How to View a Project
 
