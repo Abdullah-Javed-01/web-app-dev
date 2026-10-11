@@ -4,7 +4,7 @@ My coursework for **Web App Development**, kept in one place and updated as the 
 
 ## About This Repository
 
-[Two or three sentences in your own words: why you made this repo, and what someone will find here. For example: "I'm learning web development, and I'm putting my assignments here to track how I improve over time and to share what I build."]
+I'm learning web development, and I'm putting my assignments here to track how I improve over time and to share what I build.
 
 ## Projects
 
@@ -35,8 +35,7 @@ A `final-project/` folder will be added next to `assignments/` when that work be
 
 ## What I'm Learning
 
-- [Skills so far, for example: semantic HTML, forms, CSS Flexbox, the box model, hover effects]
-- [Skills you want to learn next, for example: responsive design with media queries, Git and GitHub]
+- Skills so far, semantic HTML, forms, CSS Flexbox, the box model, hover effects
 
 ## How to View a Project
 
@@ -44,13 +43,13 @@ Every project folder is self-contained. Download or clone the repo, open the pro
 
 ## Acknowledgements
 
-- Instructor: [your instructor's name], for guidance throughout the course
-- Resources: W3Schools HTML and CSS tutorials [add anything else you used]
-- [If you used AI tools for guidance, say so here, in your own words.]
+- Instructor: Mr. Rao Nasir, for guidance throughout the course.
+- Resources: W3Schools HTML and CSS tutorials.
+- I used Claude-Ai for assistance. 
 
 ## About Me
 
-I'm Abdullah Javed, a [degree, for example BS Computer Science] student at [your university].
+I'm Abdullah Javed, a BS Robotics student at Superior University
 
-- LinkedIn: [your LinkedIn link]
+- LinkedIn: [Abdullah Javed](https://www.linkedin.com/in/abdullah-javed-id01/)
 - GitHub: [Abdullah-Javed-01](https://github.com/Abdullah-Javed-01)
